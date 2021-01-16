@@ -1,3 +1,9 @@
+/**
+*  Create a method which accepts an integer array and removes all the duplicates in the array. Return the resulting array in descending order
+* @author-Rupsi
+*/
+
+
 package com.cg.lab2.util;
 
 import java.util.Arrays;
